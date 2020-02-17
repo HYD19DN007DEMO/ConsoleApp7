@@ -8,6 +8,6 @@ namespace ConsoleApp7
 {
     class Class1
     {
-        Console.WriteLine("HelloAll");
+       // Console.WriteLine("HelloAll");
     }
 }
