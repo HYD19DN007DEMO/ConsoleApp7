@@ -8,5 +8,9 @@ namespace ConsoleApp7
 {
     class Class2
     {
+        public Class2()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
